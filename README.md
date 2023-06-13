@@ -19,3 +19,8 @@
 - B4: Tạo Handle tương ứng với Command, nó giống như app/Http/Controllers/User/Handlers
 - B5: Tạo Repositories, tham khảo app/Repositories
 - B6: Tạo giao diện trong views, tạo route
+
+## Nguồn tham khảo
+- [rosamarsky/laravel-command-bus](https://github.com/rosamarsky/laravel-command-bus)
+- [edupham/laravel-command-bus](https://github.com/doan281/laravel-command-bus): fix lỗi tên class Handle tương ứng với Command
+- [Nguyễn Thế Huy](https://www.facebook.com/groups/167363136987053/user/100003910426858/): từ [bài viết này](https://www.facebook.com/groups/vietnam.laravel/permalink/2069851366738211/) trong nhóm Laravel Việt Nam
